@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:41.402137
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:11
 #+TITLE: 曼殊室利焰曼德迦萬愛祕術如意法
 #+PROPERTY: CBETA_ID T21n1219
 #+PROPERTY: ID KR6j0446
